@@ -1,6 +1,6 @@
-# proyectobaselinea2022_2
+# App Linea II
 
-Proyecto base línea de profundización dos
+App Linea II
 
 ## Getting Started
 
